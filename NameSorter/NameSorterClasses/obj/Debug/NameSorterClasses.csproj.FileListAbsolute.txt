@@ -1,0 +1,6 @@
+C:\git\DyeDurham\NameSorter\NameSorterClasses\bin\Debug\NameSorterClasses.dll
+C:\git\DyeDurham\NameSorter\NameSorterClasses\bin\Debug\NameSorterClasses.pdb
+C:\git\DyeDurham\NameSorter\NameSorterClasses\obj\Debug\NameSorterClasses.csproj.CoreCompileInputs.cache
+C:\git\DyeDurham\NameSorter\NameSorterClasses\obj\Debug\NameSorterClasses.dll
+C:\git\DyeDurham\NameSorter\NameSorterClasses\obj\Debug\NameSorterClasses.pdb
+C:\git\DyeDurham\NameSorter\NameSorterClasses\obj\Debug\NameSorterClasses.csprojResolveAssemblyReference.cache

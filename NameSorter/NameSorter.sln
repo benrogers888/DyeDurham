@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorterDisplay", "NameSorterDisplay\NameSorterDisplay.csproj", "{C2F5F93D-3EE7-4EEB-9631-B61C5FC34531}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorterUnitTests", "NameSorterUnitTests\NameSorterUnitTests.csproj", "{707A8F80-CCA2-4446-9431-63C6880BA80B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameSorterClasses", "NameSorterClasses\NameSorterClasses.csproj", "{64377132-BD13-443E-B846-FF7F2E3BC5BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C2F5F93D-3EE7-4EEB-9631-B61C5FC34531}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2F5F93D-3EE7-4EEB-9631-B61C5FC34531}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2F5F93D-3EE7-4EEB-9631-B61C5FC34531}.Release|Any CPU.Build.0 = Release|Any CPU
+		{707A8F80-CCA2-4446-9431-63C6880BA80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{707A8F80-CCA2-4446-9431-63C6880BA80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{707A8F80-CCA2-4446-9431-63C6880BA80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{707A8F80-CCA2-4446-9431-63C6880BA80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64377132-BD13-443E-B846-FF7F2E3BC5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64377132-BD13-443E-B846-FF7F2E3BC5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64377132-BD13-443E-B846-FF7F2E3BC5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64377132-BD13-443E-B846-FF7F2E3BC5BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
