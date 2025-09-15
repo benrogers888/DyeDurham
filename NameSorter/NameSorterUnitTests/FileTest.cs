@@ -30,8 +30,6 @@ namespace NameSorterUnitTests
             }
         }
 
-
-
         [TestMethod]
         [ExpectedException(typeof(NameSorterFileException))]
         public void NotEnoughGivenNames()
@@ -176,5 +174,4 @@ namespace NameSorterUnitTests
 
         public List<FullName> SortedNameList { get; set; }
     }
-
 }
